@@ -24,7 +24,6 @@
    <img src="https://camo.githubusercontent.com/d3f047dd004c03ef9d388905a37442291035da8729411e7503e728b5ab2f379c/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313132313339353931313834393036323430302f3765786d4a4567342e706e67" width="40" height="40"> Svelte
    <img src="https://kevinmatsunaga.com/content/images/size/w1200/2022/04/sveltekit-logo.png" width="60" height="60"> Svelte Kit
 ---
----
 
 ### 👉 Desarollo BackEnd
 
@@ -32,7 +31,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_171050.png" width="40" height="40"> Gradle
 <img src="https://th.bing.com/th?id=OSK.181d78576078d11fd69e18a189bf0c6b&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM" width="40" height="40"> Spring Boot
 <img src="https://cdn.icon-icons.com/icons2/2622/PNG/96/brand_node_icon_157859.png" width="40" height="40"> Node.js
----
+
 ---
 ### 🗄️ Bases de datos & 🌐 Alojamiento en la nube:
 
@@ -40,7 +39,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="40" height="40"> MongoDB Atlas
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_github_opened_icon_129960.png" width="40" height="40"> GithubPages
 <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/vercel_logo_icon_249276.png" width="40" height="40"> Vercel
----
+
 ---
 ### 👉 Diseño de Interfaz y Experiencia de Usuario: 
 
@@ -48,7 +47,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="40" height="40"> Figma
 <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="40" height="40"> Trello
 <img src="https://cdn.icon-icons.com/icons2/701/PNG/96/Marvel_icon-icons.com_61667.png" width="40" height="40"> Marvel
----
+
 ---
 
 
