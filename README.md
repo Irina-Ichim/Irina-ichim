@@ -66,6 +66,9 @@
 
 ¡Contáctame para colaborar en proyectos emocionantes y crear experiencias web únicas para tu negocio o proyecto personal! 😊
 
+Puedes contactarme por correo electrónico en [onlyirina7@gmail.com](mailto:onlyirina7@gmail.com) para hablar sobre posibles colaboraciones y proyectos. ¡Espero saber de ti pronto! 😊
+
+
 ---
 
 
