@@ -1,5 +1,5 @@
-### Hola 👋, mi nombre es Irina Ichim y 
-## Soy [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monserrat+&weight=500&size=22&pause=1000&color=DE43BA&width=440&height=60&lines=Desarolladora+Full-Stack;Administradora+de+sitios+WordPress;Conocedora+de+SEO+y+SEM)](https://git.io/typing-svg)
+### Hola 👋, mi nombre es Irina Ichim y soy
+##  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monserrat+&weight=500&size=22&pause=1000&color=DE43BA&width=440&height=60&lines=Desarolladora+Full-Stack;Administradora+de+sitios+WordPress;Conocedora+de+SEO+y+SEM)](https://git.io/typing-svg)
 
 
 
