@@ -16,7 +16,7 @@
 ## 👉 Frontend Development
 
 📝 Frontend: 
-   - ![HTML](https://www.bing.com/images/search?view=detailV2&ccid=yHcoEzcF&id=049769DB2CB6C2BA0F369F2BD7AFA683922AD81D&thid=OIP.yHcoEzcFsd1nSinoAMh2qwHaHa&mediaurl=https%3a%2f%2fwww.logolynx.com%2fimages%2flogolynx%2f4f%2f4fc5eb035a93e267c23a909f21a87f5e.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c87728133705b1dd674a29e800c876ab%3frik%3dHdgqkoOmr9crnw%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=HTML5+Logo.png&simid=608026125370354868&FORM=IRPRST&ck=A8484224D2CFF2E8CA720D4F7D2D6429&selectedIndex=9&ajaxhist=0&ajaxserp=0)
+   - ![HTML](https://www.logolynx.com/images/logolynx/4e/4e441838b106d7cb1154de0eb7501381.png)
 
 
 <!--
