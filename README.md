@@ -19,6 +19,9 @@
 
   <img src="https://www.logolynx.com/images/logolynx/4e/4e441838b106d7cb1154de0eb7501381.png" width="40" height="40"> HTML
    <img src="https://www.logolynx.com/images/logolynx/a6/a60635561d41eceb9cb2411cc7648b81.jpeg" width="40" height="40"> CSS
+   <img src="https://www.logolynx.com/images/logolynx/fc/fc9b448722d69b5937c40554bd8737ea.png" width="40" height="40"> Java Script
+   <img src="https://camo.githubusercontent.com/d3f047dd004c03ef9d388905a37442291035da8729411e7503e728b5ab2f379c/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313132313339353931313834393036323430302f3765786d4a4567342e706e67" width="40" height="40"> Svelte
+   <img src="https://www.logolynx.com/images/logolynx/a6/a60635561d41eceb9cb2411cc7648b81.jpeg" width="40" height="40"> CSS
 
 
 <!--
