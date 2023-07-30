@@ -25,7 +25,7 @@
 
 ### 👉 Desarollo BackEnd
 
-<img src="[https://www.bing.com/ck/a?!&&p=429d078fd20e83e0JmltdHM9MTY5MDY3NTIwMCZpZ3VpZD0zM2U2MzNhNS00NjU4LTY5MmItMDQzNS0yMjk0NDc3MzY4YjcmaW5zaWQ9NTYwMQ&ptn=3&hsh=3&fclid=33e633a5-4658-692b-0435-2294477368b7&u=a1L2ltYWdlcy9zZWFyY2g_cT1Lb3RsaW4gbG9nbyZGT1JNPUlRRlJCQSZpZD1BMjYyMTNFNzNBMzQ1NUI2NkZERUU2RDY4NUE0M0YxRUY5MEE1MzVC&ntb=](https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png)1" width="40" height="40"> Kotlin
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="40" height="40"> Kotlin
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_171050.png" width="40" height="40"> Gradle
 
 
