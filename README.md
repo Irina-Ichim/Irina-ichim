@@ -30,7 +30,11 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gradle_logo_icon_171050.png" width="40" height="40"> Gradle
 <img src="https://th.bing.com/th?id=OSK.181d78576078d11fd69e18a189bf0c6b&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM" width="40" height="40"> Spring Boot
 <img src="https://cdn.icon-icons.com/icons2/2622/PNG/96/brand_node_icon_157859.png" width="40" height="40"> Node.js
-<img src="https://cdn.icon-icons.com/icons2/2622/PNG/96/brand_node_icon_157859.png" width="40" height="40"> Node.js
+
+### 🗄️ Bases de datos:
+
+<img src="https://cdn.icon-icons.com/icons2/2667/PNG/96/folder_postgres_icon_161286.png" width="40" height="40"> PostgreSQL
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="40" height="40"> MongoDB Atlas
 
 
 <!--
