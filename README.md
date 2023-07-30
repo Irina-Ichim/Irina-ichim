@@ -16,7 +16,7 @@
 ## 👉 Frontend Development
 
 📝 Frontend: 
-   - ![HTML](https://www.logolynx.com/images/logolynx/4e/4e441838b106d7cb1154de0eb7501381.png)
+   <img src="https://www.logolynx.com/images/logolynx/4e/4e441838b106d7cb1154de0eb7501381.png" width="30" height="30"> HTML
 
 
 <!--
