@@ -50,7 +50,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" width="40" height="40"> Canva
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="40" height="40"> Figma
 <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="40" height="40"> Trello
-<img src="https://cdn.icon-icons.com/icons2/701/PNG/96/Marvel_icon-icons.com_61667.png" width="40" height="40"> Marvel
+
 
 ---
 
