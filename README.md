@@ -53,11 +53,6 @@
 
 
 ---
-
-## Contributions Calendar
-
-[![Your Name's GitHub Contributions](https://github.com/Irina-Ichim)](https://github.com/Irina-Ichim)
-
 ### 👉 Mis herramientas 
 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" width="40" height="40"> Visual Studio Code
