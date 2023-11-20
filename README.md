@@ -56,6 +56,17 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="40" height="40"> MongoDB Atlas
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_github_opened_icon_129960.png" width="40" height="40"> GithubPages
 <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/vercel_logo_icon_249276.png" width="40" height="40"> Vercel
+<img src="URL_DE_LOGO_GCP" width="40" height="40"> Google Cloud Platform (GCP)
+
+---
+
+### Herramientas y Tecnologías Adicionales:
+
+- PuTTY
+- Laboratorios QwikLab
+- Jupyter Notebooks
+- Introducción a servicios en la nube
+- Puppet (Configuración de sistemas)
 
 ---
 
@@ -72,8 +83,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="40" height="40"> Figma
 <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="40" height="40"> Trello
 
-
 ---
+
 ### 👉 Mis herramientas 
 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" width="40" height="40"> Visual Studio Code
@@ -83,11 +94,12 @@
 
 ---
 
+## Conéctate Conmigo
+
 ¡Contáctame para colaborar en proyectos emocionantes y crear experiencias web únicas para tu negocio o proyecto personal! 😊
 
-Puedes contactarme por correo electrónico en [onlyirina7@gmail.com](mailto:onlyirina7@gmail.com) para hablar sobre posibles colaboraciones y proyectos. ¡Espero saber de ti pronto! 😊
-
+- 🌐 **Sitio Web:** [irina-ichim.com](https://irina-ichim.com)
+- 📧 **Correo Electrónico:** [onlyirina7@gmail.com]
+- 💼 **LinkedIn:** [Irina Ichim](https://www.linkedin.com/in/irina-ichim-desarolladora/)
 
 ---
-
-
