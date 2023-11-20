@@ -61,9 +61,7 @@
 
 ### 👉 Herramientas de Automatización y Pruebas:
 
-<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="40" height="40"> Trello
-<img src="https://www.logolynx.com/images/logolynx/0a/0a30c54984a0f3e140a4c2828d76496f.png" width="40" height="40"> Selenium
-<img src="https://www.logolynx.com/images/logolynx/13/13a5f76be030d01508f595512f4b3d90.png" width="40" height="40"> Pytest
+<img src="https://www.logolynx.com/images/logolynx/86/861d1281b6eefe3cd16a6b5870c1e138.png" width="40" height="40"> Python (Automatización)
 
 ---
 
