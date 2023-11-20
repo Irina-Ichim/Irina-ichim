@@ -1,15 +1,29 @@
 <div align="center">
 
 ## Hola 👋, mi nombre es Irina Ichim y soy
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monserrat+&weight=500&size=22&pause=1000&color=DE43BA&width=440&height=60&lines=Desarolladora+Full-Stack;Administradora+de+sitios+WordPress;Conocedora+de+SEO+y+SEM)](https://git.io/typing-svg)
 
 </div>
 
 ## Sobre Mí:
+
 - 🚀 Disfruto ayudando a personas a tener su propia presencia en línea con hermosas páginas web.
 - 💼 También estoy emocionada por colaborar en proyectos empresariales, creando soluciones innovadoras.
 - 🌐 Mi experiencia abarca el desarrollo de aplicaciones web con distintas tecnologías y herramientas.
 - 📝 Además, soy una administradora de sitios WordPress y tengo conocimientos en SEO y SEM para mejorar el rendimiento en motores de búsqueda.
+
+---
+
+### Más sobre mí:
+
+- 🚀 Enfoque centrado en el usuario: Siempre busco comprender las necesidades y expectativas de los usuarios para crear interfaces intuitivas y atractivas.
+
+- 🌱 Aprendizaje continuo: Me apasiona mantenerme actualizada con las últimas tecnologías y tendencias en desarrollo web. Creo en la importancia del aprendizaje constante para impulsar la innovación.
+
+- 🏆 Proyecto Destacado: [Proyecto_Arquitectura_Aligra](https://github.com/Irina-Ichim/Proyecto_Arquitectura_Aligra).  Una iniciativa ganadora de la convocatoria para la “Regeneración de edificios de viviendas con sistemas innovadores sostenibles” de la fundación BitHábitat. Desarrollé junto a mis compañer@s la página web del proyecto utilizando Svelte y SvelteKit.
+
+- 🎯 Metas Profesionales: Mi objetivo es seguir creciendo como desarrolladora, contribuir a proyectos impactantes y aprender nuevas habilidades que me permitan enfrentar desafíos más complejos.
 
 ---
 
