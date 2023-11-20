@@ -61,7 +61,8 @@
 
 ### 👉 Herramientas de Automatización y Pruebas:
 
-<img src="https://www.logolynx.com/images/logolynx/86/861d1281b6eefe3cd16a6b5870c1e138.png" width="40" height="40"> Python (Automatización)
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"> Python (Automatización)
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"> Java (Spring Boot, Kotlin) - Pruebas TDD
 
 ---
 
