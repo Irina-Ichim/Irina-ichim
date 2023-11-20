@@ -56,7 +56,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" width="40" height="40"> MongoDB Atlas
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/folder_type_github_opened_icon_129960.png" width="40" height="40"> GithubPages
 <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/vercel_logo_icon_249276.png" width="40" height="40"> Vercel
-<img src="URL_DE_LOGO_GCP" width="40" height="40"> Google Cloud Platform (GCP)
+<img src="https://www.gstatic.com/webp/gallery/GoogleCloud_Logo.webp" width="40" height="40"> Google Cloud Platform (GCP)
 
 ---
 
