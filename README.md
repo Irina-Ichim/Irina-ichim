@@ -36,8 +36,8 @@
 <img src="https://www.logolynx.com/images/logolynx/a6/a60635561d41eceb9cb2411cc7648b81.jpeg" width="40" height="40"> CSS
 <img src="https://www.logolynx.com/images/logolynx/fc/fc9b448722d69b5937c40554bd8737ea.png" width="40" height="40"> Java Script
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/bootstrap_plain_wordmark_logo_icon_146620.png" width="40" height="40"> Bootstrap
-<img src="https://camo.githubusercontent.com/d3f047dd004c03ef9d388905a37442291035da8729411e7503e728b5ab2f379c/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313132313339353931313834393036323430302f3765786d4a4567342e706e67" width="40" height="40"> Svelte
-<img src="https://kevinmatsunaga.com/content/images/size/w1200/2022/04/sveltekit-logo.png" width="60" height="60"> Svelte Kit
+<img src="https://openexpoeurope.com/wp-content/uploads/2019/09/svelte-logo-1024x553.jpg" width="40" height="40"> Svelte
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=7zoTathG&id=16BB17340A8775156B4CDF437B9AC2C886B3067E&thid=OIP.7zoTathGuYp_kyOGcLmy9QAAAA&mediaurl=https%3a%2f%2fuser-images.githubusercontent.com%2f11630812%2f114088279-7cd7be80-98d2-11eb-883c-66c3bf48f293.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ef3a136ad846b98a7f93238670b9b2f5%3frik%3dfgazhsjCmntD3w%26pid%3dImgRaw%26r%3d0&exph=199&expw=474&q=sveltekit+icono&simid=608016625006945862&FORM=IRPRST&ck=64BEB579ADE50D7345AE12D7389CB61C&selectedIndex=4&itb=0&ajaxhist=0&ajaxserp=0" width="60" height="60"> Svelte Kit
 
 ---
 
