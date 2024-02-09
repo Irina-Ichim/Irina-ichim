@@ -1,0 +1,28 @@
+# Ignorar archivos y directorios generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos y directorios específicos
+.cache/
+.codetogether/
+.config/
+.ctsystem
+.eclipse/
+.gradle/
+.m2/
+.p2/
+.rsp/
+.sonarlint/
+.tooling/
+.vscode/
+.webclipse/
+AppData/
+backup.sql
+eclipse-workspace/
+eclipse/
+git/
+apache-tomcat-9.0.41/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+testReact/
