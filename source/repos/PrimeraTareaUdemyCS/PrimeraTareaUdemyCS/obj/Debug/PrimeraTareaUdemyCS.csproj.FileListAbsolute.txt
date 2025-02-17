@@ -1,0 +1,7 @@
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\bin\Debug\PrimeraTareaUdemyCS.exe.config
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\bin\Debug\PrimeraTareaUdemyCS.exe
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\bin\Debug\PrimeraTareaUdemyCS.pdb
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\obj\Debug\PrimeraTareaUdemyCS.csproj.AssemblyReference.cache
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\obj\Debug\PrimeraTareaUdemyCS.csproj.CoreCompileInputs.cache
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\obj\Debug\PrimeraTareaUdemyCS.exe
+C:\Users\proye\source\repos\PrimeraTareaUdemyCS\PrimeraTareaUdemyCS\obj\Debug\PrimeraTareaUdemyCS.pdb
