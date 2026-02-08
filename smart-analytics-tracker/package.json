@@ -1,0 +1,36 @@
+{
+  "name": "smart-analytics-tracker",
+  "version": "1.0.0",
+  "description": "Sistema avanzado de tracking de interacciones del usuario usando IntersectionObserver, MutationObserver, Event Delegation y Custom Events",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o /demo",
+    "build": "node build.js",
+    "test": "echo \"Tests coming soon...\" && exit 0"
+  },
+  "keywords": [
+    "analytics",
+    "tracking",
+    "dom",
+    "intersection-observer",
+    "mutation-observer",
+    "event-delegation",
+    "custom-events",
+    "heatmap",
+    "rage-clicks",
+    "scroll-tracking"
+  ],
+  "author": "FemCoders Club",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/femcodersclub/smart-analytics-tracker"
+  },
+  "homepage": "https://femcodersclub.com",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

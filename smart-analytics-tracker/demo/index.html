@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Analytics Tracker - Demo | FemCoders Club</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Dashboard flotante -->
+  <div id="analytics-dashboard" class="dashboard">
+    <div class="dashboard-header">
+      <h3>📊 Analytics en Vivo</h3>
+      <button id="toggle-dashboard" class="btn-icon">_</button>
+    </div>
+    
+    <div class="dashboard-content">
+      <!-- Métricas generales -->
+      <div class="metrics-grid">
+        <div class="metric-card">
+          <div class="metric-value" id="total-clicks">0</div>
+          <div class="metric-label">Clicks</div>
+        </div>
+        
+        <div class="metric-card">
+          <div class="metric-value" id="rage-clicks">0</div>
+          <div class="metric-label">Rage Clicks</div>
+        </div>
+        
+        <div class="metric-card">
+          <div class="metric-value" id="scroll-depth">0%</div>
+          <div class="metric-label">Scroll Depth</div>
+        </div>
+        
+        <div class="metric-card">
+          <div class="metric-value" id="visible-elements">0</div>
+          <div class="metric-label">Elementos Visibles</div>
+        </div>
+      </div>
+      
+      <!-- Tabs -->
+      <div class="tabs">
+        <button class="tab active" data-tab="clicks">Clicks</button>
+        <button class="tab" data-tab="scroll">Scroll</button>
+        <button class="tab" data-tab="visibility">Visibilidad</button>
+        <button class="tab" data-tab="heatmap">Heatmap</button>
+      </div>
+      
+      <!-- Tab content -->
+      <div class="tab-content active" data-content="clicks">
+        <div id="clicks-list" class="events-list"></div>
+      </div>
+      
+      <div class="tab-content" data-content="scroll">
+        <div id="scroll-info" class="info-panel">
+          <p>Patrón: <span id="scroll-pattern">Detectando...</span></p>
+          <p>Velocidad promedio: <span id="scroll-velocity">0</span> px/s</p>
+          <p>Milestones: <span id="scroll-milestones">Ninguno</span></p>
+        </div>
+      </div>
+      
+      <div class="tab-content" data-content="visibility">
+        <div id="visibility-list" class="events-list"></div>
+      </div>
+      
+      <div class="tab-content" data-content="heatmap">
+        <div id="heatmap-zones" class="zones-list"></div>
+      </div>
+      
+      <!-- Acciones -->
+      <div class="dashboard-actions">
+        <button id="export-json" class="btn btn-primary">💾 Exportar JSON</button>
+        <button id="clear-metrics" class="btn btn-secondary">🧹 Limpiar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Overlay de heatmap -->
+  <canvas id="heatmap-overlay"></canvas>
+
+  <!-- Contenido de la página -->
+  <header class="hero">
+    <div class="container">
+      <h1>Smart Analytics Tracker</h1>
+      <p class="subtitle">Sistema avanzado de tracking de interacciones del usuario</p>
+      <p class="description">
+      </p>
+      <div class="cta-buttons">
+        <a href="#" class="btn btn-primary cta-button" data-track-visibility id="start-demo">Comenzar Demo</a>
+        <a href="../README.md" class="btn btn-secondary cta-button" data-track-visibility id="doc-link" target="_blank" rel="noopener">Documentación</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Sección 1: Event Delegation -->
+    <section class="section" data-track-visibility>
+      <h2>🎯 Event Delegation</h2>
+      <p>
+        En lugar de agregar un listener a cada botón, usamos un solo listener
+        en el contenedor padre que captura todos los clicks mediante bubbling.
+      </p>
+      <div class="demo-box">
+        <h3>Prueba clickear estos botones:</h3>
+        <div class="button-grid">
+          <button class="btn">Botón 1</button>
+          <button class="btn">Botón 2</button>
+          <button class="btn">Botón 3</button>
+          <button class="btn">Botón 4</button>
+          <button class="btn">Botón 5</button>
+          <button class="btn">Botón 6</button>
+        </div>
+        <p class="tip">💡 Todos manejados con un solo event listener global</p>
+      </div>
+    </section>
+
+    <!-- Sección 2: Rage Clicks -->
+    <section class="section" data-track-visibility>
+      <h2>😤 Rage Click Detection</h2>
+      <p>
+        Detectamos cuando un usuario hace múltiples clicks rápidos en el mismo lugar,
+        indicando frustración (por ejemplo, un botón que no responde).
+      </p>
+      <div class="demo-box">
+        <h3>Intenta hacer click rápido 3+ veces aquí:</h3>
+        <div class="rage-click-area">
+          <button class="btn btn-disabled">Botón "Roto"</button>
+          <p class="hint">👆 Haz click varias veces seguidas</p>
+        </div>
+        <div id="rage-alert" class="alert" style="display: none;">
+          🚨 ¡Rage Click detectado! El usuario está frustrado.
+        </div>
+      </div>
+    </section>
+
+    <!-- Sección 3: IntersectionObserver -->
+    <section class="section" data-track-visibility>
+      <h2>👁️ IntersectionObserver</h2>
+      <p>
+        Medimos cuánto tiempo cada elemento está realmente visible en pantalla.
+        Perfecto para saber qué contenido es más atractivo.
+      </p>
+      <div class="demo-box">
+        <h3>Productos trackeados:</h3>
+        <div class="product-grid">
+          <article class="product-card" data-track-visibility>
+            <div class="product-image">📱</div>
+            <h4>Producto A</h4>
+            <p class="price">$99.99</p>
+            <div class="visibility-timer">Visible: <span>0s</span></div>
+          </article>
+          
+          <article class="product-card" data-track-visibility>
+            <div class="product-image">💻</div>
+            <h4>Producto B</h4>
+            <p class="price">$199.99</p>
+            <div class="visibility-timer">Visible: <span>0s</span></div>
+          </article>
+          
+          <article class="product-card" data-track-visibility>
+            <div class="product-image">⌚</div>
+            <h4>Producto C</h4>
+            <p class="price">$299.99</p>
+            <div class="visibility-timer">Visible: <span>0s</span></div>
+          </article>
+          
+          <article class="product-card" data-track-visibility>
+            <div class="product-image">🎧</div>
+            <h4>Producto D</h4>
+            <p class="price">$149.99</p>
+            <div class="visibility-timer">Visible: <span>0s</span></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sección 4: Scroll Tracking -->
+    <section class="section" data-track-visibility>
+      <h2>📜 Scroll Depth Tracking</h2>
+      <p>
+        No solo medimos "scrolleó 50%", sino que detectamos el tipo de scroll:
+        lectura lenta, escaneo rápido, o búsqueda.
+      </p>
+      <div class="demo-box">
+        <h3>Artículo largo para scroll:</h3>
+        <article class="long-article">
+          <h4>La Manipulación del DOM en JavaScript Moderno</h4>
+          <p>
+            JavaScript es el lenguaje que da vida a las páginas web. Sin embargo,
+            manipular el DOM de forma eficiente requiere conocer patrones avanzados
+            y APIs modernas.
+          </p>
+          <p>
+            El Event Delegation es fundamental. En lugar de crear cientos de listeners,
+            aprovechamos el bubbling para capturar eventos en un ancestro común.
+          </p>
+          <p>
+            IntersectionObserver revolucionó cómo detectamos visibilidad. Antes
+            teníamos que usar scroll listeners con cálculos manuales, ahora el
+            navegador hace el trabajo pesado.
+          </p>
+          <p>
+            Performance es clave. DocumentFragment nos permite construir estructuras
+            complejas en memoria antes de insertarlas, evitando múltiples reflows.
+          </p>
+          <p>
+            requestAnimationFrame sincroniza actualizaciones con el refresh rate
+            del monitor, logrando animaciones fluidas a 60fps.
+          </p>
+          <p>
+            MutationObserver nos alerta de cambios en el DOM, perfecto para SPAs
+            donde el contenido cambia dinámicamente.
+          </p>
+          <p>
+            Custom Events permiten desacoplar componentes, implementando el patrón
+            Publisher-Subscriber de forma nativa en JavaScript.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Sección 5: Performance -->
+    <section class="section" data-track-visibility>
+      <h2>⚡ Performance Optimization</h2>
+      <p>
+        Usamos DocumentFragment y requestAnimationFrame para operaciones del DOM
+        sin impactar el performance.
+      </p>
+      <div class="demo-box">
+        <h3>Renderizado optimizado:</h3>
+        <button id="render-test" class="btn btn-primary">
+          Renderizar 1000 elementos
+        </button>
+        <div id="render-container" class="render-container"></div>
+        <p id="render-time" class="render-time"></p>
+      </div>
+    </section>
+
+    <!-- Sección 6: Custom Events -->
+    <section class="section" data-track-visibility>
+      <h2>🎪 Custom Events</h2>
+      <p>
+        El sistema usa Custom Events para comunicación entre módulos,
+        implementando un EventBus completamente desacoplado.
+      </p>
+      <div class="demo-box">
+        <h3>Eventos del sistema:</h3>
+        <div id="custom-events-log" class="events-log"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>
+        💜 Creado con amor por <strong>Irina Ichim</strong> (<a href="https://github.com/Irina-Ichim" target="_blank" rel="noopener">@Irina-Ichim</a>), cofundadora de <strong>FemCoders Club</strong>
+      </p>
+      <p>
+        <a href="https://femcodersclub.com" target="_blank" rel="noopener">femcodersclub.com</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script type="module" src="demo.js"></script>
+</body>
+</html>
