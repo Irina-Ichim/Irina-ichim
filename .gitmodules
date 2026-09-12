@@ -1,0 +1,3 @@
+[submodule "source/repos/CursoUdemySeccion2"]
+	path = source/repos/CursoUdemySeccion2
+	url = https://github.com/Irina-Ichim/CSHarpCourse.git
