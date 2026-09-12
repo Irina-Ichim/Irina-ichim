@@ -1,110 +1,95 @@
 <div align="center">
 
-# Hola 👋, mi nombre es Irina Ichim y soy
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1800&color=DE43BA&center=true&vCenter=true&width=600&lines=Ingeniera+de+software+freelance;Frontend+con+Next.js%2C+React+y+TypeScript;Backend+con+Java+y+Node.js;IA+aplicada+y+agentes+en+producci%C3%B3n;Cofundadora+de+FemCoders+Club" alt="Ingeniera de software freelance · Next.js, React y TypeScript · Java y Node.js" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monserrat+&weight=500&size=22&pause=1000&color=DE43BA&width=500&height=60&lines=Desarrolladora+Full-Stack;Cofundadora+de+FemCoders+Club;Apasionada+por+la+Accesibilidad+Web" alt="Typing SVG">
-</p>
 </div>
 
-## 🚀 ¡Bienvenid@ a mi GitHub!  
+## Hola, soy Irina
 
-💡 Aquí encontrarás proyectos, ideas y recursos sobre **desarrollo web, accesibilidad, automatización y tecnología**.  
-Me encanta aprender, crear experiencias digitales impactantes y compartir conocimiento con la comunidad.  
-Soy **cofundadora de FemCoders Club** y siempre estoy explorando nuevas tecnologías para mejorar la web.  
+Soy Irina, ingeniera de software freelance en Barcelona. Desarrollo productos de principio a fin: desde la arquitectura y el diseño técnico hasta el despliegue y el mantenimiento en producción.
 
-## Sobre Mí
+Construyo plataformas web, dashboards, CRM y herramientas internas a medida, e integro IA según las necesidades de cada proyecto.
 
-- 🚀 Me apasiona ayudar a personas y negocios a construir su presencia en línea con páginas web atractivas, funcionales y accesibles.  
-- 💼 Soy cofundadora y desarrolladora de la web de [FemCoders Club](https://www.femcodersclub.com), un espacio para mujeres en tecnología. Me encargo de su desarrollo y mantenimiento, asegurándome de que evolucione y siga creciendo con nuevas funcionalidades.  
-- 🌐 Mi experiencia abarca el desarrollo de aplicaciones web y móviles con distintas tecnologías modernas y herramientas.  
-- ♿ Me intereso por la accesibilidad web (A11Y), asegurando que las aplicaciones sean inclusivas para todos los usuarios.  
-- 🔍 Integro SEO técnico en desarrollo web, optimizando el rendimiento y la estructura del código para mejorar la visibilidad en buscadores.  
-- 📚 En constante aprendizaje, siempre explorando nuevas tecnologías y mejores prácticas en programación.  
+Desde 2024 colaboro en remoto con un grupo internacional del sector salud y cuidado personal, liderando técnicamente varios proyectos con equipos de cuatro a seis personas. Buena parte de mi trabajo es confidencial; aquí comparto los proyectos que puedo mostrar.
 
-### Más sobre mí
+Soy cofundadora de FemCoders Club, donde desarrollo la plataforma y creo recursos técnicos para la comunidad. También imparto cursos de integración de IA y, en mi tiempo libre, doy mentorías de Java e IA aplicada a proyectos.
 
-- 🚀 Enfoque centrado en el usuario: Me gusta crear interfaces intuitivas y accesibles, asegurándome de que la experiencia del usuario sea lo más fluida posible.  
-- 🌱 Aprendizaje continuo: Siempre estoy explorando nuevas tecnologías y tendencias en desarrollo web. Creo que mejorar constantemente es clave para ofrecer mejores soluciones.  
-- 🏆 Proyectos Destacados:  
-  - 🏢 [Proyecto_Arquitectura_Aligra](https://github.com/Irina-Ichim/Proyecto_Arquitectura_Aligra): Una iniciativa seleccionada en la convocatoria de Regeneración de edificios de viviendas con sistemas sostenibles de la fundación BitHábitat. Desarrollé la web junto a mis compañer@s con Svelte y SvelteKit.  
-  - 🌐 [FemCoders Club](https://www.femcodersclub.com): Web que desarrollé y mantengo como cofundadora de la comunidad.  
-  - 💻 [irina-ichim.com](https://irina-ichim.com): Mi web personal, donde comparto mi trayectoria y proyectos.  
-- 🎯 Metas profesionales: Seguir creciendo como desarrolladora, trabajar en proyectos que generen impacto y seguir aprendiendo nuevas habilidades para enfrentar desafíos más complejos.  
+## Stack
 
-<hr style="border:0.5px solid #de43ba;">
+| Área | Tecnologías |
+| :-- | :-- |
+| Backend | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py" height="36" alt="Java, Spring, Node.js, NestJS y Python" /><br>Spring Boot · WebFlux · Spring Security |
+| Frontend | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,svelte,tailwind" height="36" alt="Next.js, React, TypeScript, JavaScript, Svelte y Tailwind CSS" /> <img src="assets/stack/framermotion.svg" width="36" height="36" alt="Framer Motion" title="Framer Motion" /><br>next-intl · MDX |
+| Datos | <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" height="36" alt="PostgreSQL, MySQL y Prisma" /> <img src="assets/stack/apachespark.svg" width="36" height="36" alt="Apache Spark" title="Apache Spark" /><br>Flyway · Spring Data JPA · R2DBC |
+| Nube y DevOps | <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,cloudflare,vercel,gcp" height="36" alt="Azure, Docker, GitHub Actions, Cloudflare, Vercel y Google Cloud" /> <img src="assets/stack/railway.svg" width="36" height="36" alt="Railway" title="Railway" /> <img src="assets/stack/digitalocean.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" /><br>Render · Cloudflare R2 · BetterStack |
+| Testing y accesibilidad | <img src="https://skillicons.dev/icons?i=vitest,jest" height="36" alt="Vitest y Jest" /> <img src="assets/stack/junit.svg" width="36" height="36" alt="JUnit" title="JUnit" /> <img src="assets/stack/playwright.svg" width="36" height="36" alt="Playwright" title="Playwright" /><br>axe-core |
+| IA y automatización | <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="TensorFlow" /><br>Vertex AI |
 
-## 🛠️ Mis Habilidades
+- **IA aplicada:** integración de modelos en producto, agentes especializados, conexión de APIs y flujos automatizados, y arquitecturas multiproveedor con enrutado por tarea. Trabajo principalmente con Claude Code y Codex durante el ciclo de desarrollo (SDLC), con especificaciones, pruebas y revisión. Me interesa especialmente RAG para conectar modelos con fuentes de conocimiento propias.
+- **Seguridad y datos:** Spring Security y JWT, sistemas de auditoría, y RGPD, LOPDGDD y AI Act desde el diseño.
+- **Calidad:** tests unitarios y de integración con Vitest, Jest y JUnit, e2e con Playwright, revisiones de accesibilidad con axe-core y pruebas manuales, y CI/CD.
 
-### 👉 Desarrollo FrontEnd  
+## Proyectos
 
-| HTML5 | CSS3 | React | JavaScript | TypeScript | Bootstrap | Svelte & SvelteKit |
-|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="Svelte"> |
-
-### 👉 Desarrollo BackEnd  
-
-| Node.js | NestJS | Java | C# | Python | Kotlin | Gradle | Spring Boot |
-|---|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"> | <img src="./ProyectosIrina/Iconos/nest.jpg" width="40" height="40" alt="NestJS"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gradle.svg" width="40" height="40" alt="Gradle"> | <img src="https://th.bing.com/th?id=OSK.181d78576078d11fd69e18a189bf0c6b&w=188&h=132&c=7&o=6&dpr=1.3&pid=SANGAM" width="40" height="40" alt="Spring Boot"> |
-
-### 🗄️ Bases de Datos & 🌐 Alojamiento en la Nube  
-
-| MySQL | Railway | PostgreSQL | MongoDB Atlas | GitHub Pages | Vercel | Google Cloud Platform |
-|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"> | <img src="https://railway.com/brand/logo-light.png" width="40" height="40" alt="Railway"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB Atlas"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Pages"> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vercel.svg" width="40" height="40" alt="Vercel"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/640px-Google_Cloud_logo.svg.png" width="40" height="40" alt="Google Cloud Platform"> |
-
-### 🔧 Herramientas y Tecnologías Adicionales  
-
-- 🖥️ **PuTTY** - Cliente SSH y telnet.  
-- ☁️ **QwikLab** - Laboratorios en la nube para Google Cloud.  
-- 📓 **Jupyter Notebooks** - Entorno interactivo para Python y ciencia de datos.  
-- 🔧 **Puppet** - Herramienta para la gestión y automatización de configuración de servidores.  
-
-### ⚙️ Herramientas de Automatización y Pruebas  
-
-| Python (Automatización) | Java (TDD con Spring Boot, Kotlin) | Jest | NUnit (C#) | xUnit (C#) |
-|---|---|---|---|---|
-| <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="Python"> | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"> | <img src="https://avatars.githubusercontent.com/u/160543?s=200&v=4" width="40" height="40" alt="NUnit"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="xUnit"> |
-
-### 🎨 Diseño de Interfaz y Experiencia de Usuario  
-
-- 🎨 **Canva** - Diseño gráfico para redes sociales y presentaciones.  
-- 🎨 **Figma** - Herramienta de diseño colaborativo para UI/UX.  
-- 📌 **Trello (Kanban)** - Gestión de proyectos con tableros visuales.  
-- 📌 **Jira (Kanban)** - Herramienta de gestión ágil para equipos de desarrollo.  
-
-### 🛠️ Mis herramientas  
-
-| Visual Studio Code | Visual Studio | Eclipse | IntelliJ | Postman | SSMS | Git |
-|---|---|---|---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"> | <img src="./ProyectosIrina/Iconos/VS.jpg" width="40" height="40" alt="Visual Studio"> | <img src="./ProyectosIrina/Iconos/eclipse.jpg" width="40" height="40" alt="Eclipse"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"> | <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman"> | <img src="./ProyectosIrina/Iconos/SQL.jpg" width="40" height="40" alt="SSMS"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Git"> |
-
-<hr style="border:0.5px solid #de43ba;">
-
-## 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Irina-Ichim&show_icons=true&theme=radical" width="500"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irina-Ichim&layout=compact&theme=radical" width="500"></td>
-  </tr>
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/tu-mtch.png" width="100%" alt="tu.mtch" />
+<h3>tu.mtch</h3>
+<p><strong>cofundadora</strong></p>
+<p>Plataforma de optimizaci&#243;n de la b&#250;squeda de empleo en tech. Un gateway de IA centraliza proveedores, modelos, cuotas y auditor&#237;a de consumo y costes; un dashboard privado permite consultar estas m&#233;tricas. La IA propone y Java calcula el scoring con reglas deterministas. Incluye autenticaci&#243;n JWT y Google OAuth, auditor&#237;a de usuarios registrados y correos transaccionales con Resend.</p>
+<details>
+<summary>Detalles técnicos</summary>
+<p>Desarrollo guiado por especificaciones (SDD): criterios de aceptaci&#243;n y dise&#241;o t&#233;cnico antes del c&#243;digo, decisiones de arquitectura documentadas y 11 agentes especializados coordinados por un control de calidad previo a cada PR. Auditor&#237;as de accesibilidad (a11y), seguridad y requisitos de RGPD y AI Act forman parte de las especificaciones.</p>
+</details>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code> <code>Railway</code> &#183; <a href="https://tu-mtch.com">tu-mtch.com</a> &#183; c&#243;digo privado</p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/projects/June.png" width="100%" alt="June: monitoreo de violencia política de género y censura algorítmica" />
+<h3>June</h3>
+<p><strong>para In CoDe</strong></p>
+<p><strong>Plataforma p&#250;blica de monitoreo de violencia pol&#237;tica de g&#233;nero y censura algor&#237;tmica.</strong> Soy Tech Lead de un equipo de cuatro personas. Disponible en espa&#241;ol y catal&#225;n, con moderaci&#243;n humana y sin IA generativa en el producto. Arquitectura monol&#237;tica con Next.js App Router, autenticaci&#243;n de moderadoras y archivos privados en Cloudflare R2 accesibles solo con sesi&#243;n. Integra Resend para correos transaccionales, backups diarios y borrado automatizado por retenci&#243;n.</p>
+<details>
+<summary>Detalles técnicos</summary>
+<p>Desarrollo guiado por especificaciones y decisiones de arquitectura documentadas (ADRs), con cinco agentes de solo lectura que asisten en la revisi&#243;n, incluido uno de accesibilidad (a11y). Unos 540 tests con Vitest, incluida integraci&#243;n contra PostgreSQL real; Playwright para e2e, revisiones de accesibilidad con axe y QA manual en staging. CI con lint, comprobaci&#243;n de tipos, migraciones, tests y build, y despliegue en Railway.</p>
+</details>
+<p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>NextAuth</code> <code>Tailwind CSS</code> <code>next-intl</code> <code>Cloudflare R2</code> &#183; c&#243;digo privado</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/busconnect.png" width="100%" alt="BusConnect" />
+<h3>BusConnect</h3>
+<p><strong>proyecto propio</strong></p>
+<p>Comparador de alquiler de autob&#250;s discrecional en Catalunya sobre sus 947 municipios. Desarrollo el frontend, el backend y el chatbot conectado directamente a los servicios. Frontend en Next.js, React y TypeScript, con Zustand y TanStack Query para estado y cach&#233; de datos, y formularios con React Hook Form y Zod.</p>
+<details>
+<summary>Detalles técnicos</summary>
+<p>Backend en Java 21 y Spring Boot, organizado en microservicios reactivos de usuarios y cat&#225;logo con WebFlux, R2DBC y PostgreSQL. Autenticaci&#243;n JWT, migraciones con Flyway, cach&#233; con Caffeine y API Gateway con Resilience4j. Servicios contenerizados con Docker y desplegados en Render; Eureka para descubrimiento de servicios en local y URLs directas en producci&#243;n.</p>
+</details>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Java</code> <code>Spring Boot</code> <code>WebFlux</code> <code>R2DBC</code> <code>PostgreSQL</code> <code>Docker</code> &#183; <a href="https://github.com/BusConnectTeam/busConnect-backend">backend</a> &#183; <a href="https://github.com/BusConnectTeam/busConnect-frontend">frontend</a></p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/projects/femcodersclub.png" width="100%" alt="FemCoders Club" />
+<h3>FemCoders Club</h3>
+<p><strong>cofundadora y desarrolladora de la plataforma</strong></p>
+<p>He desarrollado toda la plataforma de la comunidad de forma individual desde el primer commit: arquitectura, frontend, backend, CRM y herramientas internas, e integraciones con Eventbrite y Brevo. Incorpora agentes propios de seguridad, cumplimiento, SEO/GEO y accesibilidad (a11y), con auditor&#237;as de seguridad basadas en OWASP, revisiones de cumplimiento de RGPD y AI Act, y auditor&#237;as SEO/GEO y de accesibilidad. Unas 1.600 personas registradas en los eventos.</p>
+<p><code>NestJS</code> <code>MySQL</code> <code>React</code> <code>TypeScript</code> &#183; <a href="https://www.femcodersclub.com">femcodersclub.com</a> &#183; <a href="https://github.com/web-Femcoders-Club/client">repositorio</a></p>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irina-Ichim&theme=radical" width="700">
-</p>
+### Proyectos para la comunidad
 
-## 🚀 Conéctate Conmigo  
+- [Proyectos técnicos para FemCoders Club](https://github.com/femcodersclub): proyectos y recursos educativos que desarrollo para la comunidad, con ejemplos de JavaScript, gestión de estado, resiliencia de APIs, cifrado y dashboards modulares.
 
-¡Contáctame para colaborar en proyectos emocionantes y crear experiencias web únicas! 😊  
+## Contacto
 
-- 🌐 **Sitio Web:** [irina-ichim.com](https://irina-ichim.com)  
-- 📧 **Correo Electrónico:** [onlyirina7@gmail.com](mailto:onlyirina7@gmail.com)  
-- 💼 **LinkedIn:** [Irina Ichim](https://www.linkedin.com/in/irina-ichim-desarolladora/)  
+¿Buscas apoyo para desarrollar un producto, integrar IA o liderar la parte técnica de un proyecto? Hablemos.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Irina-Ichim&label=👀+Visitas&color=DE43BA&style=flat-square" width="150">
-</p>
+Puedes escribirme a [gilda.irina.ichim@gmail.com](mailto:gilda.irina.ichim@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/irina-ichim-desarrolladora/).
 
-<hr style="border:0.5px solid #de43ba">
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Irina-Ichim&label=Visitas&color=DE43BA&style=flat-square" alt="Visitas al perfil" />
+
+</div>
