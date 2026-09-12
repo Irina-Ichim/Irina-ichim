@@ -6,24 +6,29 @@
 
 ## Hola, soy Irina
 
-Soy Irina, ingeniera de software freelance en Barcelona. Desarrollo productos de principio a fin: desde la arquitectura y el diseño técnico hasta el despliegue y el mantenimiento en producción.
+Soy Irina, ingeniera de software freelance en Barcelona. Transformo ideas en productos de software y cubro cada etapa del desarrollo: arquitectura y diseño técnico, implementación, despliegue y mantenimiento en producción.
 
-Construyo plataformas web, dashboards, CRM y herramientas internas a medida, e integro IA según las necesidades de cada proyecto.
+Desarrollo plataformas web, CRM, dashboards y herramientas internas a medida. Integro soluciones de IA orientadas a resolver necesidades concretas de cada negocio.
 
-Desde 2024 colaboro en remoto con un grupo internacional del sector salud y cuidado personal, liderando técnicamente varios proyectos con equipos de cuatro a seis personas. Buena parte de mi trabajo es confidencial; aquí comparto los proyectos que puedo mostrar.
+Desde 2024 trabajo en remoto como Tech Lead para un grupo internacional del sector salud y cuidado personal, coordinando equipos de cuatro a seis personas. Buena parte de mi trabajo está sujeta a acuerdos de confidencialidad (NDA); aquí comparto los proyectos que puedo mostrar, incluidos algunos cuyo código es privado.
 
-Soy cofundadora de FemCoders Club, donde desarrollo la plataforma y creo recursos técnicos para la comunidad. También imparto cursos de integración de IA y, en mi tiempo libre, doy mentorías de Java e IA aplicada a proyectos.
+Soy cofundadora de FemCoders Club, donde desarrollo la plataforma y creo recursos técnicos y formativos para la comunidad. También imparto cursos de integración de IA y doy mentorías de Java e IA aplicada a proyectos.
 
 ## Stack
 
-| Área | Tecnologías |
-| :-- | :-- |
-| Backend | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py" height="36" alt="Java, Spring, Node.js, NestJS y Python" /><br>Spring Boot · WebFlux · Spring Security |
-| Frontend | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,svelte,tailwind" height="36" alt="Next.js, React, TypeScript, JavaScript, Svelte y Tailwind CSS" /> <img src="assets/stack/framermotion.svg" width="36" height="36" alt="Framer Motion" title="Framer Motion" /><br>next-intl · MDX |
-| Datos | <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" height="36" alt="PostgreSQL, MySQL y Prisma" /> <img src="assets/stack/apachespark.svg" width="36" height="36" alt="Apache Spark" title="Apache Spark" /><br>Flyway · Spring Data JPA · R2DBC |
-| Nube y DevOps | <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,cloudflare,vercel,gcp" height="36" alt="Azure, Docker, GitHub Actions, Cloudflare, Vercel y Google Cloud" /> <img src="assets/stack/railway.svg" width="36" height="36" alt="Railway" title="Railway" /> <img src="assets/stack/digitalocean.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" /><br>Render · Cloudflare R2 · BetterStack |
-| Testing y accesibilidad | <img src="https://skillicons.dev/icons?i=vitest,jest" height="36" alt="Vitest y Jest" /> <img src="assets/stack/junit.svg" width="36" height="36" alt="JUnit" title="JUnit" /> <img src="assets/stack/playwright.svg" width="36" height="36" alt="Playwright" title="Playwright" /><br>axe-core |
-| IA y automatización | <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="TensorFlow" /><br>Vertex AI |
+<table width="100%">
+<thead>
+<tr><th align="left">Área</th><th align="left" width="100%">Tecnologías</th></tr>
+</thead>
+<tbody>
+<tr><td>Backend</td><td width="100%"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,py" height="36" alt="Java, Spring, Node.js, NestJS y Python" /> <img src="assets/stack/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" /> <img src="assets/stack/springsecurity.svg" width="36" height="36" alt="Spring Security" title="Spring Security" /> &nbsp; WebFlux</td></tr>
+<tr><td>Frontend</td><td width="100%"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,svelte,tailwind" height="36" alt="Next.js, React, TypeScript, JavaScript, Svelte y Tailwind CSS" /> <img src="assets/stack/framermotion.svg" width="36" height="36" alt="Framer Motion" title="Framer Motion" /> <img src="assets/stack/mdx.svg" width="36" height="36" alt="MDX" title="MDX" /> &nbsp; next-intl</td></tr>
+<tr><td>Datos</td><td width="100%"><img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" height="36" alt="PostgreSQL, MySQL y Prisma" /> <img src="assets/stack/apachespark.svg" width="36" height="36" alt="Apache Spark" title="Apache Spark" /> <img src="assets/stack/flyway.svg" width="36" height="36" alt="Flyway" title="Flyway" /> &nbsp; Spring Data JPA · R2DBC</td></tr>
+<tr><td>Nube y DevOps</td><td width="100%"><img src="https://skillicons.dev/icons?i=azure,docker,githubactions,cloudflare,vercel,gcp" height="36" alt="Azure, Docker, GitHub Actions, Cloudflare, Vercel y Google Cloud" /> <img src="assets/stack/railway.svg" width="36" height="36" alt="Railway" title="Railway" /> <img src="assets/stack/digitalocean.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" /> <img src="assets/stack/render.svg" width="36" height="36" alt="Render" title="Render" /> <img src="assets/stack/betterstack.svg" width="36" height="36" alt="BetterStack" title="BetterStack" /> &nbsp; Cloudflare R2</td></tr>
+<tr><td>Testing y accesibilidad</td><td width="100%"><img src="https://skillicons.dev/icons?i=vitest,jest" height="36" alt="Vitest y Jest" /> <img src="assets/stack/junit.svg" width="36" height="36" alt="JUnit" title="JUnit" /> <img src="assets/stack/playwright.svg" width="36" height="36" alt="Playwright" title="Playwright" /> &nbsp; axe-core</td></tr>
+<tr><td>IA y automatización</td><td width="100%"><img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="TensorFlow" /> &nbsp; Vertex AI</td></tr>
+</tbody>
+</table>
 
 - **IA aplicada:** integración de modelos en producto, agentes especializados, conexión de APIs y flujos automatizados, y arquitecturas multiproveedor con enrutado por tarea. Trabajo principalmente con Claude Code y Codex durante el ciclo de desarrollo (SDLC), con especificaciones, pruebas y revisión. Me interesa especialmente RAG para conectar modelos con fuentes de conocimiento propias.
 - **Seguridad y datos:** Spring Security y JWT, sistemas de auditoría, y RGPD, LOPDGDD y AI Act desde el diseño.
